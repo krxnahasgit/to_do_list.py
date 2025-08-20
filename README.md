@@ -9,7 +9,6 @@ Add and delete tasks with a beautiful interface.
 ## Features
 - Add tasks
 - Delete tasks
-- Elegant UI with modern fonts and colors
 
 ## Run
 ```bash
